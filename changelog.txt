@@ -1,6 +1,0 @@
-== Changelog ==
-
-= 1.0.1 =
-* 7/29/2018
-* Initial release
-
